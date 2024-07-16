@@ -52,29 +52,6 @@ By continuously extending and refining this security automation framework, we ha
 #### Project Management Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> </p>
 
-I am a passionate **Application Security Architect**, **DevSecOps Engineer** and  vast experience in result driven **DevSecOps and Shift Left Security** with extensive experience in:
-
-- **Web Application Security**
-- **APIs Security**
-- **Android & iOS App Security**
-- **AWS Cloud Security**
-- **Kubernetes Security**
-- **Threat Modeling**
-
-I have a vast experience in:
-
-- **SAST**: Static Code Analysis
-- **DAST**: Dynamic Security Testing
-- **Automation**: Security Automation Frameworks
-- **CI/CD**: Continuous Integration and Continuous Deployment
-
-### Tools and Technologies
-
-- **Threat Model (STRIDE, IriusRisk)**
-- **SAST (Fortify, BlackDuck, Coverity, Git-Sec, IaC, Malware scan)**
-- **DAST (Web, API, Mobile, EKS, AWS)**
-- **Web Services Security Automation**
-- **Framework Design**
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
