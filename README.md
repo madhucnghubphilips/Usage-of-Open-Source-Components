@@ -1,4 +1,4 @@
-![platform](https://img.shields.io/badge/Threat%20Model-STRIDE,%20IriusRisk-yellow)
+![](https://img.shields.io/badge/Threat%20Model-STRIDE,%20IriusRisk-yellow)
 ![platform](https://img.shields.io/badge/Proxy-OWASP%20ZAP,%20Burpsuite-green)
 ![platform](https://img.shields.io/badge/Mobile%20Security-MobSF,%20frida-blue)
 ![platform](https://img.shields.io/badge/Platform-Xcode-purple)
@@ -6,6 +6,8 @@
 ![platform](https://img.shields.io/static/v1?label=Platform&message=OS:%20Windows%20/%20Linux&color=yellow)
 ![python](https://img.shields.io/badge/python-green.svg?logo=python&labelColor=yellow)
 ![python](https://img.shields.io/badge/Java-orange.svg?logo=oracle&labelColor=green)
+![.NET](https://img.shields.io/badge/.NET-green.svg?logo=.NET&labelColor=yellow)
+![NodeJS](https://img.shields.io/badge/NodeJS-blue.svg?logo=Node.JS&labelColor=orange)
 
 
 <!-- Header Section -->
