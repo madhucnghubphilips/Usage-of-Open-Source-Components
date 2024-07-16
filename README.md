@@ -16,7 +16,7 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Open-Source Components </font></h1>
 
-<h3 align="left"><font face="Arial"> What are Open-Source Components?</font></h3>
+<h3 align="left"><font face="Arial"><span style="color:green">What are Open-Source Components?color=blue</span></font></h3>
 <h3 align="left" style="color: blue; font-family: Arial;">What are Open-Source Components?</h3>
 <h3 align="left" style="color: blue; font-family: Arial;">What are Open-Source Components?</h3>
 <span style="color: blue; font-family: Arial;">What are Open-Source Components?</span>
@@ -63,27 +63,27 @@ Adherence to Standards: Many open-source projects adhere to industry standards a
 Auditability: The open nature of the code makes it easier to audit for compliance with legal and regulatory requirements.</font></h4>
 
 <h3 align="left"><font face="Arial"> What are risks associated with open-source components?</font></h3>
-<h4 align="left"><font face="Arial"> 
-Despite the benefits, there are risks associated with using open-source components:
+<h4 align="left"><font face="Arial"> Despite the benefits, there are risks associated with using open-source components:</font></h4>
+
+<h4 align="left"><font face="Arial"> 1) Security vulnerabilities:</font></h4>
   
-1) ****Security vulnerabilities:****
-If not properly managed and updated, open-source components can introduce vulnerabilities in your software. It's important to consistently monitor these components for potential security threats. The most common vulnerabilities are:
+If OSS-Components are not properly managed and updated, open-source components can introduce vulnerabilities in your software. It's important to consistently monitor these components for potential security threats. The most common vulnerabilities are:
   
-   a) Unpatched vulnerabilities
+     a) Unpatched vulnerabilities
+      
+     b) Zero-day vulnerabilities
+      
+     c) Dependency vulnerabilities
+      
+     d) Outdated components
+      
+     e) Insecure coding practices
+      
+     f) Misconfiguration
+       
+     g) Lack of security audits
   
-    b) Zero-day vulnerabilities
-  
-    c) Dependency vulnerabilities
-  
-    d) Outdated components
-  
-    e) Insecure coding practices
-  
-    f) Misconfiguration
-   
-    g) Lack of security audits
-  
-2) License compliance:
+  3) License compliance:
    
    Each open-source component comes with a license that stipulates how it can be used. Failure to adhere to these licenses can result in legal complications.
 
