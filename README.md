@@ -12,7 +12,7 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-blue.svg?logo=Node.JS&labelColor=orange)
 
 <!-- GIF -->
-<img align="right" height="180" width="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="180" width="300" src="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/Resource/coder3.gif" />
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Open-Source Components </font></h1>
 
@@ -60,7 +60,7 @@ Auditability: The open nature of the code makes it easier to audit for complianc
 <h4 align="left"><font face="Arial"> 
 Despite the benefits, there are risks associated with using open-source components:
   
-1) **Security vulnerabilities:** 
+1) ****Security vulnerabilities:****
 If not properly managed and updated, open-source components can introduce vulnerabilities in your software. It's important to consistently monitor these components for potential security threats. The most common vulnerabilities are:
   
    a) Unpatched vulnerabilities
@@ -74,11 +74,20 @@ If not properly managed and updated, open-source components can introduce vulner
     e) Insecure coding practices
   
     f) Misconfiguration
+   
+    g) Lack of security audits
   
-  g) Lack of security audits
-License compliance: Each open-source component comes with a license that stipulates how it can be used. Failure to adhere to these licenses can result in legal complications.
-Component outdating or abandonment: Open-source projects can be discontinued or not updated regularly, resulting in outdated components. Keeping track of the versions of your open-source components can mitigate this risk.
-Integration challenges: Integrating open-source components with proprietary or custom-built software can sometimes be difficult, requiring additional time and effort to ensure compatibility and seamless operation. </font></h4>
+2) License compliance:
+   
+   Each open-source component comes with a license that stipulates how it can be used. Failure to adhere to these licenses can result in legal complications.
+
+4) Component outdating or abandonment:
+   
+   Open-source projects can be discontinued or not updated regularly, resulting in outdated components. Keeping track of the versions of your open-source components can mitigate this risk.
+
+6) Integration challenges:
+   
+   Integrating open-source components with proprietary or custom-built software can sometimes be difficult, requiring additional time and effort to ensure compatibility and seamless operation. </font></h4>
 
 
 
