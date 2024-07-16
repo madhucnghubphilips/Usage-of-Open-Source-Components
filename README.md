@@ -1,12 +1,11 @@
-[![python](https://img.shields.io/badge/python-green.svg?logo=python&labelColor=yellow)
-![platform](https://img.shields.io/static/v1?label=JAVA&message=for%20ZAP&color=orange)
-![platform](https://img.shields.io/badge/OWASP%20ZAP-Proxy-green)
-![platform](https://img.shields.io/badge/Burpsuite-Proxy-orange)
-![platform](https://img.shields.io/badge/STRIDE%20ThreatModel-green)
-![platform](https://img.shields.io/badge/ThreatModel%20IriusRisk-green)
+![python](https://img.shields.io/badge/python-green.svg?logo=python&labelColor=yellow)
+![python](https://img.shields.io/badge/Java-orange.svg?logo=oracle&labelColor=green)
+![platform](https://img.shields.io/badge/Proxy-OWASP%20ZAP,%20Burpsuite-green)
+![platform](https://img.shields.io/badge/Threat%20Model-STRIDE,%20IriusRisk-yellow)
 ![platform](https://img.shields.io/badge/Mobile%20Security-MobSF-green)
 ![platform](https://img.shields.io/static/v1?label=Platform&message=OS:%20Windows%20/%20Linux&color=yellow)
 ![platform](https://img.shields.io/badge/Platform-Xcode-Blue)
+
 
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Madhu CN </font></h1>
