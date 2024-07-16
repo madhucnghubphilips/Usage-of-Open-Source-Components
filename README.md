@@ -121,7 +121,7 @@ If OSS-Components are not properly managed and updated, open-source components c
 
 <h3 align="left"><font face="Arial">Security best practices while importing open source components</font></h3>
 
-Reputation:
+**Reputation:**
 
 Use components from reputable sources and well-known projects. Check the history and community around the project.
 Check the number of downloads, stars, forks, and watchers on platforms like GitHub. Popular projects are more likely to be well-maintained.
@@ -129,20 +129,20 @@ Perform a basic review of the component's source code to ensure it adheres to co
 Analyze the component’s dependencies for additional risks.
 A widely-used and actively-maintained project is typically more reliable.
 
-Activity and Maintenance:
+**Activity and Maintenance:**
 
 Ensure the component is actively maintained. Look for recent commits, regular releases, and active issue resolution.
 Also look at the frequency of commits, the number of contributors, and how quickly issues and pull requests are addressed. Active communities are a good sign of ongoing support and maintenance.
 
-Trusted Repositories:
+**Trusted Repositories:**
 
 Always download components from official sources or trusted package managers (e.g., PyPI, npm, Maven Central, RubyGems).
  
-Verify Integrity:
+**Verify Integrity:**
 
 Use checksums or signatures to verify the integrity of the downloaded component.
 
-Review Code and Dependencies:
+**Review Code and Dependencies:**
 
 Code Quality: Inspect the code for quality and adherence to best practices. Avoid components with poorly written or undocumented code.
 
@@ -150,33 +150,33 @@ Dependency Chain: Be aware of the component's dependencies. Use tools to analyze
 	
 Ensure the project has comprehensive documentation, which indicates the authors' commitment to the project.
  
-Vulnerability Assessment:
+**Vulnerability Assessment:**
 
 Security Advisories: Check for known vulnerabilities in the component. Use databases like the National Vulnerability Database (NVD), Snyk, or GitHub Security Advisories.
 	
 Automated Tools: Use automated security tools to scan for vulnerabilities. Tools like OWASP Dependency-Check, Snyk, or GitHub Dependabot can be integrated into your CI/CD pipeline.
 
-Version Management:
+**Version Management:**
 
 Pin Dependencies: Avoid using floating versions (e.g., ^1.0.0 or latest). Instead, pin dependencies to specific versions that you have reviewed.
 Regular Updates: Keep your dependencies up-to-date. Regularly check for and apply updates that include security patches.
 
-Legal and Compliance:
+**Legal and Compliance:**
 
 Licenses: Ensure that the component's license is compatible with your project and that you comply with its terms.
 Policies: Develop and enforce policies for using open-source software within your organization.
 
-Continuous Monitoring and Alerts:
+**Continuous Monitoring and Alerts:**
 
 Security Monitoring: Continuously monitor the security status of your dependencies. Set up alerts for new vulnerabilities and updates.
 Audit Logs: Maintain and review logs to detect and investigate any suspicious activity related to open-source components.
 
-Logging and Monitoring:
+**Logging and Monitoring:**
 
 Audit Logs: Enable logging to monitor the behavior of the component.
 Anomaly Detection: Use monitoring tools to detect unusual activity that might indicate a security breach.
 
-Documentation and Training:
+**Documentation and Training:**
 
 Internal Documentation: Document the open-source components you use, their purpose, and any security considerations.
 Developer Training: Train your development team on secure coding practices and the risks associated with using open-source software.
