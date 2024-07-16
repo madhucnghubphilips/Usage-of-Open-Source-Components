@@ -2,6 +2,14 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Madhu CN </font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/madhu-cn-40b88433/" target="_blank" rel="noreferrer">Madhu CN</a> is a Sr. Manager/Sr Security Architect, Product Security by Design, working on DevSecOps, Application Security.</font></h3>
 
+[![python](https://img.shields.io/badge/python-3.8+-blue.svg?logo=python&labelColor=yellow)](https://www.python.org/downloads/)
+![platform](https://img.shields.io/static/v1?label=JAVA&message=for%20ZAP&color=orange)
+![platform](https://img.shields.io/badge/OWASP%20ZAP-Proxy-green)
+![platform](https://img.shields.io/badge/Burpsuite-Proxy-orange)
+![platform](https://img.shields.io/badge/Mobile%20Security-MobSF-green)
+![platform](https://img.shields.io/static/v1?label=Platform&message=OS:%20Windows%20/%20Linux&color=yellow)
+![platform](https://img.shields.io/badge/Platform-Xcode-Blue)
+
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
