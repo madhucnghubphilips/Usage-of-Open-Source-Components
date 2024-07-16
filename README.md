@@ -94,6 +94,8 @@ If OSS-Components are not properly managed and updated, open-source components c
      Permission: The MIT License allows users to freely use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software.
      Conditions: The only condition is that the original copyright notice and permission notice must be included in all copies or substantial portions of the software.
      Warranty Disclaimer: The software is provided "as is", without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+  [More Details of MIT License](https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/MIT%20License.txt "More Details")
   
     2.2) GNU General Public License (GPL) 2.0
     
