@@ -3,6 +3,8 @@
 ![platform](https://img.shields.io/badge/Mobile%20Security-MobSF,%20frida-blue)
 ![platform](https://img.shields.io/badge/Platform-Xcode-purple)
 ![platform](https://img.shields.io/badge/EKS-kubescape,%20kubebench-orange)
+![platform](https://img.shields.io/badge/SAST-Fortify,%20Coverity,%20BlackDuck,%20GitSec,%20Checkov-orange)
+![Infrascan](https://img.shields.io/badge/InfraScan-Nessus-orange)
 ![platform](https://img.shields.io/static/v1?label=Platform&message=OS:%20Windows%20/%20Linux&color=yellow)
 ![python](https://img.shields.io/badge/python-green.svg?logo=python&labelColor=yellow)
 ![python](https://img.shields.io/badge/Java-orange.svg?logo=oracle&labelColor=green)
