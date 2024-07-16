@@ -19,6 +19,8 @@
 <h3 align="left"><font face="Arial"> What are Open-Source Components?</font></h3>
 <h3 align="left" style="color: blue; font-family: Arial;">What are Open-Source Components?</h3>
 <h3 align="left" style="color: blue; font-family: Arial;">What are Open-Source Components?</h3>
+<span style="color: blue; font-family: Arial;">What are Open-Source Components?</span>
+
 
 
 <h4 align="left"><font face="Arial"> Open-source components are software modules, libraries, frameworks, or tools with source code made available for anyone to use, modify, and distribute. Developed and maintained by a community of developers, these components are typically released under open-source licenses that outline the terms and conditions for their usage and distribution.</font></h4>
