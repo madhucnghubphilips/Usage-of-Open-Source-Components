@@ -180,7 +180,7 @@ Anomaly Detection: Use monitoring tools to detect unusual activity that might in
 Internal Documentation: Document the open-source components you use, their purpose, and any security considerations.
 Developer Training: Train your development team on secure coding practices and the risks associated with using open-source software.</font></h4>
 
-
+[More Details](https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/Apache%20License%20version%202.0.txt "More Details")
 
 
 
