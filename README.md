@@ -145,15 +145,12 @@ Use checksums or signatures to verify the integrity of the downloaded component.
 **Review Code and Dependencies:**
 
 Code Quality: Inspect the code for quality and adherence to best practices. Avoid components with poorly written or undocumented code.
-
 Dependency Chain: Be aware of the component's dependencies. Use tools to analyze and monitor these dependencies for vulnerabilities.
-	
 Ensure the project has comprehensive documentation, which indicates the authors' commitment to the project.
  
 **Vulnerability Assessment:**
 
 Security Advisories: Check for known vulnerabilities in the component. Use databases like the National Vulnerability Database (NVD), Snyk, or GitHub Security Advisories.
-	
 Automated Tools: Use automated security tools to scan for vulnerabilities. Tools like OWASP Dependency-Check, Snyk, or GitHub Dependabot can be integrated into your CI/CD pipeline.
 
 **Version Management:**
