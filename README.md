@@ -65,21 +65,21 @@ Auditability: The open nature of the code makes it easier to audit for complianc
 <h4 align="left"><font face="Arial"> 
 If OSS-Components are not properly managed and updated, open-source components can introduce vulnerabilities in your software. It's important to consistently monitor these components for potential security threats. The most common vulnerabilities are:
   
-     a) Unpatched vulnerabilities
-      
-     b) Zero-day vulnerabilities
-      
-     c) Dependency vulnerabilities
-      
-     d) Outdated components
-      
-     e) Insecure coding practices
-      
-     f) Misconfiguration
-       
-     g) Lack of security audits
+a) Unpatched vulnerabilities
+
+b) Zero-day vulnerabilities
+
+c) Dependency vulnerabilities
+
+d) Outdated components
+
+e) Insecure coding practices
+
+f) Misconfiguration
+
+g) Lack of security audits
   
-  3) License compliance:
+<h4 align="left"><font face="Arial"> 2) License compliance:
    
    Each open-source component comes with a license that stipulates how it can be used. Failure to adhere to these licenses can result in legal complications.
     
@@ -130,11 +130,11 @@ If OSS-Components are not properly managed and updated, open-source components c
 	</tr>
 </table>
 
-4) Component outdating or abandonment:
+**3) Component outdating or abandonment:**
    
    Open-source projects can be discontinued or not updated regularly, resulting in outdated components. Keeping track of the versions of your open-source components can mitigate this risk.
 
-6) Integration challenges:
+**4) Integration challenges:**
    
    Integrating open-source components with proprietary or custom-built software can sometimes be difficult, requiring additional time and effort to ensure compatibility and seamless operation. </font></h4>
 
