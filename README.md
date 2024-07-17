@@ -190,65 +190,63 @@ Remember, the key to managing open-source components effectively is not just ide
 </table>
 
 
-<h3 align="left"><font face="Arial">Security best practices while importing open source components</font></h3>
+<h3 align="left"><font face="Arial"><span style="color:green">Security best practices while importing open source components</span></font></h3>
+<table>
+	<tr>
+		<td><h4>Reputation:</h4></td> 
+		<td>Use components from reputable sources and well-known projects. Check the history and community around the project. Check the number of downloads, stars, forks, and watchers on platforms like GitHub. Popular projects are more likely to be well-maintained. Perform a basic review of the component's source code to ensure it adheres to coding standards and best practices. Analyze the component’s dependencies for additional risks. A widely-used and actively-maintained project is typically more reliable.</td>
+	</tr>
+	<tr>
+		<td><h4>Activity and Maintenance:</h4></td> 
+		<td>Ensure the component is actively maintained. Look for recent commits, regular releases, and active issue resolution. Also look at the frequency of commits, the number of contributors, and how quickly issues and pull requests are addressed. Active communities are a good sign of ongoing support and maintenance.</td>
+	</tr>
+	<tr>
+		<td><h4>Trusted Repositories:</h4></td> 
+		<td>Always download components from official sources or trusted package managers (e.g., PyPI, npm, Maven Central, RubyGems).</td>
+	</tr>
+	<tr>
+		<td><h4>Verify Integrity:</h4></td> 
+		<td>Use checksums or signatures to verify the integrity of the downloaded component.</td>
+	</tr>
+	<tr>
+		<td><h4>Review Code and Dependencies:</h4></td> 
+		<td>Code Quality - Inspect the code for quality and adherence to best practices. Avoid components with poorly written or undocumented code. Dependency Chain: Be aware of the component's dependencies. Use tools to analyze and monitor these dependencies for vulnerabilities. Ensure the project has comprehensive documentation, which indicates the authors' commitment to the project.</td>
+	</tr>
+	<tr>
+		<td><h4>Vulnerability Assessment:</h4></td> 
+		<td>Security Advisories: Check for known vulnerabilities in the component. Use databases like the National Vulnerability Database (NVD), Snyk, or GitHub Security Advisories. Automated Tools: Use automated security tools to scan for vulnerabilities. Tools like OWASP Dependency-Check, Snyk, or GitHub Dependabot can be integrated into your CI/CD pipeline.</td>
+	</tr>
+	<tr>
+		<td><h4>Version Management:</h4></td> 
+		<td>Pin Dependencies - Avoid using floating versions (e.g., ^1.0.0 or latest). Instead, pin dependencies to specific versions that you have reviewed. Regular Updates: Keep your dependencies up-to-date. Regularly check for and apply updates that include security patches.</td>
+	</tr>
+	<tr>
+		<td><h4>Legal and Compliance:</h4></td> 
+		<td>Licenses - Ensure that the component's license is compatible with your project and that you comply with its terms. Policies: Develop and enforce policies for using open-source software within your organization.</td>
+	</tr>
+	<tr>
+		<td><h4>Continuous Monitoring and Alerts:</h4></td> 
+		<td>Security Monitoring - Continuously monitor the security status of your dependencies. Set up alerts for new vulnerabilities and updates. Audit Logs: Maintain and review logs to detect and investigate any suspicious activity related to open-source components.</td>
+	</tr>
+	<tr>
+		<td><h4>Documentation and Training:</h4></td> 
+		<td>Internal Documentation - Document the open-source components you use, their purpose, and any security considerations. Train your development team on secure coding practices and the risks associated with using open-source software.</td>
+	</tr>
+</table>
 
-<font></h4>
-**Reputation:**
 
-Use components from reputable sources and well-known projects. Check the history and community around the project.
-Check the number of downloads, stars, forks, and watchers on platforms like GitHub. Popular projects are more likely to be well-maintained.
-Perform a basic review of the component's source code to ensure it adheres to coding standards and best practices.
-Analyze the component’s dependencies for additional risks.
-A widely-used and actively-maintained project is typically more reliable.
 
-**Activity and Maintenance:**
 
-Ensure the component is actively maintained. Look for recent commits, regular releases, and active issue resolution.
-Also look at the frequency of commits, the number of contributors, and how quickly issues and pull requests are addressed. Active communities are a good sign of ongoing support and maintenance.
 
-**Trusted Repositories:**
 
-Always download components from official sources or trusted package managers (e.g., PyPI, npm, Maven Central, RubyGems).
- 
-**Verify Integrity:**
 
-Use checksums or signatures to verify the integrity of the downloaded component.
 
-**Review Code and Dependencies:**
 
-Code Quality: Inspect the code for quality and adherence to best practices. Avoid components with poorly written or undocumented code.
-Dependency Chain: Be aware of the component's dependencies. Use tools to analyze and monitor these dependencies for vulnerabilities.
-Ensure the project has comprehensive documentation, which indicates the authors' commitment to the project.
- 
-**Vulnerability Assessment:**
 
-Security Advisories: Check for known vulnerabilities in the component. Use databases like the National Vulnerability Database (NVD), Snyk, or GitHub Security Advisories.
-Automated Tools: Use automated security tools to scan for vulnerabilities. Tools like OWASP Dependency-Check, Snyk, or GitHub Dependabot can be integrated into your CI/CD pipeline.
 
-**Version Management:**
 
-Pin Dependencies: Avoid using floating versions (e.g., ^1.0.0 or latest). Instead, pin dependencies to specific versions that you have reviewed.
-Regular Updates: Keep your dependencies up-to-date. Regularly check for and apply updates that include security patches.
 
-**Legal and Compliance:**
 
-Licenses: Ensure that the component's license is compatible with your project and that you comply with its terms.
-Policies: Develop and enforce policies for using open-source software within your organization.
-
-**Continuous Monitoring and Alerts:**
-
-Security Monitoring: Continuously monitor the security status of your dependencies. Set up alerts for new vulnerabilities and updates.
-Audit Logs: Maintain and review logs to detect and investigate any suspicious activity related to open-source components.
-
-**Logging and Monitoring:**
-
-Audit Logs: Enable logging to monitor the behavior of the component.
-Anomaly Detection: Use monitoring tools to detect unusual activity that might indicate a security breach.
-
-**Documentation and Training:**
-
-Internal Documentation: Document the open-source components you use, their purpose, and any security considerations.
-Developer Training: Train your development team on secure coding practices and the risks associated with using open-source software.</font></h4>
 
 
 
