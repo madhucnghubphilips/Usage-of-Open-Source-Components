@@ -203,9 +203,46 @@ Anomaly Detection: Use monitoring tools to detect unusual activity that might in
 Internal Documentation: Document the open-source components you use, their purpose, and any security considerations.
 Developer Training: Train your development team on secure coding practices and the risks associated with using open-source software.</font></h4>
 
-[More Details](https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/Apache%20License%20version%202.0.txt "More Details")
+<h3 align="left"><font face="Arial"><span style="color:green">Free Tools for Vulnerability Detection in Open-Source Components</span></font></h3>	
 
-
+<table>
+	<tr>
+		<td>Open-Source Tool</td> 
+		<td>Description</td>
+		<td>KeyFeatures</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/jeremylong/DependencyCheck">OWASP Dependency-Check</a></td>
+		<td>A software composition analysis tool that identifies project dependencies and checks if there are any known, publicly disclosed vulnerabilities.</td>
+		<td>Multi-language support, Jenkins, Maven, Gradle integration, Detailed reports linking to the associated CVE entries.</td>
+	</tr>
+		<tr>
+		<td><a href="https://retirejs.github.io/retire.js/">Retire.js</a></td>
+		<td>The goal of Retire.js is to help you detect use of version with known vulnerabilities. Scan a web app or node app for use of vulnerable JavaScript libraries and/or node modules.</td>
+		<td>Supports npm, Bower, and other package managers. - Browser extension available, Continuous scanning</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/DependencyTrack/dependency-track">OWASP Dependency-Track</a></td>
+		<td>Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. Dependency-Track takes a unique and highly beneficial approach by leveraging the capabilities of Software Bill of Materials (SBOM).</td>
+		<td>Continuous monitoring, Supports SBOM formats, Integration with CI/CD pipelines</td>
+	</tr>
+		<tr>
+		<td><a href="https://github.com/quay/clair">Clair</a></td>
+		<td>Analyzes Docker images for known vulnerabilities in the software used inside the container.</td>
+		<td>API-driven, Integrates with CI/CD pipelines, Detailed vulnerability reports</td>
+	</tr>
+		<tr>
+		<td><a href="https://github.com/anchore/grype">Grype</a></td>
+		<td>A vulnerability scanner for container images and filesystems with a focus on simplicity.</td>
+		<td>Scans container images and filesystems, Integration with Syft for SBOM generation, Continuous scanning</td>
+	</tr>
+	</tr>
+		<tr>
+		<td><a href="https://github.com/pyupio/safety">Safety</a></td>
+		<td>A tool designed to check Python dependencies for known security vulnerabilities.</td>
+		<td>Supports JSON, SBOM, HTML and text output, Automatically updates requirements files to secure versions of dependencies where available, guided by your project's policy settings, Can be integrated into CI pipelines, Regular updates</td>
+	</tr>
+</table>
 
 - 💬 Ask me about **DevSecOps, API Security Automation, Threat Model, SAST, DAST**
 - 📫 How to reach me **[cnmadhucbpur@gmail.com](mailto:cnmadhucbpur@gmail.com)**
