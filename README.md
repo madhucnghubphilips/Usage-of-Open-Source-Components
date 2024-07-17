@@ -239,5 +239,40 @@ Developer Training: Train your development team on secure coding practices and t
 	</tr>
 </table>
 
+
+<h3 align="left"><font face="Arial"><span style="color:green">Professional Tools to Uncover Vulnerabilities in Open-Source Components</span></font></h3>	
+<table>
+	<tr>
+		<td>Professional Tool</td> 
+		<td>Description</td>
+		<td>KeyFeatures</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.synopsys.com/software-integrity/software-composition-analysis-tools/black-duck-sca.html">Black Duck by Synopsys</a></td>
+		<td>Comprehensive solution for open-source management and security, identifying vulnerabilities, license compliance, and operational risks.</td>
+		<td>Extensive language support, Continuous monitoring, Detailed risk reports, Integration with CI/CD pipelines</td>
+	</tr>
+		<tr>
+		<td><a href="https://snyk.io/">Snyk</a></td>
+		<td>Provides vulnerability scanning and license compliance for open-source dependencies. Professional plans offer more features.</td>
+		<td>GitHub, GitLab, Bitbucket integration, Automated PRs for fixes, Continuous monitoring, License compliance</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.mend.io/">WhiteSource</a></td>
+		<td>Identifies vulnerabilities and license risks in open-source components, providing actionable remediation insights.</td>
+		<td>Real Time Alerts, Automated Remediation, Integration with CI/CD pipelines, Comprehensive reports</td>
+	</tr>
+		<tr>
+		<td><a href="https://www.veracode.com/products/software-composition-analysis">Veracode Software Composition Analysis (SCA)</a></td>
+		<td>Identifies vulnerabilities in open-source libraries and components, offering comprehensive risk management. Manages Beyond NVD or have yet to be registered</td>
+		<td>Detailed vulnerability reports, Continuous monitoring, Integration with CI/CD tools, Automated remediation suggestions</td>
+	</tr>
+		<tr>
+		<td><a href="https://github.com/anchore/grype">Checkmarx SCA</a></td>
+		<td>Identifies vulnerabilities in open-source components and provides actionable insights for remediation.</td>
+		<td>Detailed risk assessment, Continuous monitoring, Integration with CI/CD tools, Automated remediation suggestions</td>
+	</tr>
+</table>
+
 - 💬 Ask me about **DevSecOps, API Security Automation, Threat Model, SAST, DAST**
 - 📫 How to reach me **[cnmadhucbpur@gmail.com](mailto:cnmadhucbpur@gmail.com)**
