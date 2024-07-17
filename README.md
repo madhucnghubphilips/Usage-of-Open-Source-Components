@@ -86,11 +86,11 @@ g) Lack of security audits
 
 <table>
 	<tr>
-		<td>License Name</td> 
-		<td>Description</td>
-		<td>Permissions</td>
-		<td>Conditions</td>
-		<td>Limitations</td>
+		<td><h4>License Name</h4></td> 
+		<td><h4>Description</h4></td>
+		<td><h4>Permissions</h4></td>
+		<td><h4>Conditions</h4></td>
+		<td><h4>Limitations</h4></td>
 	</tr>
 		<tr>
 		<td><a href="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/MIT%20License.txt">MIT License</a></td>
