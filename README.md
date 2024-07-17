@@ -201,9 +201,9 @@ Developer Training: Train your development team on secure coding practices and t
 
 <table>
 	<tr>
-		<td>Open-Source Tool</td> 
-		<td>Description</td>
-		<td>KeyFeatures</td>
+		<td><h4>Open-Source Tool</h4></td> 
+		<td><h4>Description</h4></td>
+		<td><h4>KeyFeatures</h4></td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/jeremylong/DependencyCheck">OWASP Dependency-Check</a></td>
@@ -242,9 +242,9 @@ Developer Training: Train your development team on secure coding practices and t
 <h3 align="left"><font face="Arial"><span style="color:green">Professional Tools to Uncover Vulnerabilities in Open-Source Components</span></font></h3>	
 <table>
 	<tr>
-		<td>Professional Tool</td> 
-		<td>Description</td>
-		<td>KeyFeatures</td>
+		<td><h4>Professional Tool</h4></td> 
+		<td><h4>Description</h4></td>
+		<td><h4>KeyFeatures</h4></td>
 	</tr>
 	<tr>
 		<td><a href="https://www.synopsys.com/software-integrity/software-composition-analysis-tools/black-duck-sca.html">Black Duck by Synopsys</a></td>
