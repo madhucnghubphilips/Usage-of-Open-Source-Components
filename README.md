@@ -251,6 +251,74 @@ Internal Documentation: Document the open-source components you use, their purpo
 Developer Training: Train your development team on secure coding practices and the risks associated with using open-source software.</font></h4>
 
 
+
+<h3 align="left"><font face="Arial">Best Practices - Securing Open Source Components After Import</font></h3>
+
+<font></h4>
+**Regularly Update Components:**
+
+Keep all open-source components up-to-date to avoid known vulnerabilities.
+Use tools like Dependabot, Renovate, or Snyk to automate dependency updates.
+
+**Conduct Regular Vulnerability Scans:**
+
+Use tools like OWASP Dependency-Check, BlackDuck, Snyk, and WhiteSource Bolt to regularly scan for vulnerabilities.
+Integrate these scans into your CI/CD pipeline to catch issues early.
+
+**Monitor for Security Advisories:**
+
+Subscribe to security advisories and mailing lists relevant to the components you use.
+Follow repositories and projects on GitHub to get notified of security updates.
+ 
+**Implement Security Policies:**
+
+Define and enforce security policies for the use of open-source components.
+Use tools like Sonatype Nexus Firewall to prevent the use of components with known vulnerabilities.
+Sonatype Nexus Firewall enforces security policies automatically, blocking the download and use of components with known vulnerabilities.
+Policies can be customized to suit the security requirements of your organization.
+
+**Conduct Penetration Testing:**
+
+Regularly perform penetration testing to identify and remediate security weaknesses.
+Engage third-party security experts for unbiased assessments.
+ 
+**Conduct Automated and Manual Code Reviews:**
+
+Review the source code of critical components to identify potential security issues.
+Pay attention to components that handle sensitive data or critical functionalities.
+
+**Sandbox and Isolate Components:**
+
+Run components in isolated environments to limit the impact of potential vulnerabilities.
+Use containerization (e.g., Docker) to sandbox components.
+
+**Limit Component Permissions:**
+
+Follow the principle of least privilege by limiting the permissions and capabilities of imported components.
+
+**Implement Runtime Protection:**
+
+Use runtime protection tools to monitor and protect your application in production.
+Runtime Application Self-Protection (RASP) is a security technology that is integrated into an application to detect and prevent real-time attacks. Unlike traditional security measures, RASP works from within the application, providing a layer of protection that adapts to the context of the running application. It effectively protects applications from a wide range of threats by monitoring and analyzing their behavior during runtime.
+
+**License Compliance:**
+
+Ensure that the licenses of the components comply with your project's requirements.
+Use tools like FOSSA or Black Duck to automate license compliance checks.
+FOSSA (Free and Open Source Software Analysis) is a platform designed to manage the use of open-source software within your projects. It provides tools for license compliance, vulnerability detection, and overall management of open-source components.
+
+**Maintain a Software Bill of Materials (SBOM):**
+
+Keep an updated SBOM to track all the components and their versions used in your project.
+
+**Educate and Train Developers:**
+
+Train your development team on the importance of using secure open-source components.
+Encourage following secure coding practices and regular security training.</font></h4>
+
+
+
+
 <h3 align="left"><font face="Arial"><span style="color:green">Free Tools to Uncover Vulnerabilities in Open-Source Components</span></font></h3>	
 
 <table>
