@@ -12,7 +12,7 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-blue.svg?logo=Node.JS&labelColor=orange)
 
 <!-- GIF -->
-<img align="right" height="180" width="300" src="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/Resource/coder3.gif" />
+<img align="center" height="300" width="500" src="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/Resource/coder3.gif" />
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Open-Source Components </font></h1>
 
