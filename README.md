@@ -99,7 +99,7 @@ If OSS-Components are not properly managed and updated, open-source components c
 		<td>Limitations</td>
 	</tr>
 		<tr>
-		<td><a href="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/BSD%20License%202.0.txt">MIT License</a></td>
+		<td><a href="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/MIT%20License.txt">MIT License</a></td>
 		<td>A permissive license that is simple and easy to understand. It allows for reuse within proprietary software.</td>
 		<td>Commercial use, modification, distribution, private use</td>
 		<td>License and copyright notice required</td>
