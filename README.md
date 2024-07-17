@@ -88,33 +88,7 @@ If OSS-Components are not properly managed and updated, open-source components c
    
    Each open-source component comes with a license that stipulates how it can be used. Failure to adhere to these licenses can result in legal complications.
     
-     2.1) MIT License
-  
-     The MIT License is one of the most permissive and widely used open-source licenses. Here’s a detailed description and the full text of the MIT License:
-     Permission: The MIT License allows users to freely use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software.
-     Conditions: The only condition is that the original copyright notice and permission notice must be included in all copies or substantial portions of the software.
-     Warranty Disclaimer: The software is provided "as is", without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
-  [More Details of MIT License](https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/MIT%20License.txt "More Details")
-  
-    2.2) GNU General Public License (GPL) 2.0
-    
-    The GNU General Public License (GPL) 2.0 is a widely used free software license that ensures end users have the freedom to run, study, share, and modify the software. Unlike more permissive licenses like the MIT License, the GPL 2.0 has more restrictive terms, particularly regarding the distribution of modified code.
-  [More Details of GNU GENERAL PUBLIC LICENSE Version 2.0](https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/GNU%20GENERAL%20PUBLIC%20LICENSE%20Version%202.txt "More Details") 
-  
-    2.3) Apache License 2.0
-    
-    The Apache License 2.0 is a permissive open-source license that provides a clear, detailed framework for the use, modification, and distribution of licensed software. It is widely adopted and used by many open-source projects, offering a balance between permissiveness and protection.
-  [More Details of Apache License version 2.0](https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/Apache%20License%20version%202.0.txt "More Details")
-  
-    2.4) GNU General Public License (GPL) 3.0
-    
-    The GNU General Public License (GPL) 3.0 is a free software license that ensures end users have the freedom to run, study, share, and modify the software. It builds on the principles of the GPL 2.0 while addressing some of the issues and limitations of the earlier version.
-  [More Details of GNU GENERAL PUBLIC LICENSE version 3.0](https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/GNU%20GENERAL%20PUBLIC%20LICENSE%20version%203.0.txt "More Details")
-  
-    2.5) BSD License 2.0
-    
-    The BSD License 2.0, also known as the 3-Clause BSD License or the Revised BSD License, is a permissive open-source license that allows for the redistribution and use of software with minimal restrictions. It is one of the simplest and most flexible open-source licenses, promoting the use and distribution of software while protecting the rights of both the author and the users.
-  [More Details of BSD License 2.0](https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/BSD%20License%202.0.txt "More Details")
+     
 
 <table>
 	<tr>
