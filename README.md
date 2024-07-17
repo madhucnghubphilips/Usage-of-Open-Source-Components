@@ -116,6 +116,51 @@ If OSS-Components are not properly managed and updated, open-source components c
     The BSD License 2.0, also known as the 3-Clause BSD License or the Revised BSD License, is a permissive open-source license that allows for the redistribution and use of software with minimal restrictions. It is one of the simplest and most flexible open-source licenses, promoting the use and distribution of software while protecting the rights of both the author and the users.
   [More Details of BSD License 2.0](https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/BSD%20License%202.0.txt "More Details")
 
+<table>
+	<tr>
+		<td>License Name</td>
+		<td>Description</td>
+		<td>Permissions</td>
+		<td>Conditions</td>
+		<td>Limitations</td>
+	</tr>
+		<tr>
+		<td>MIT License</td>
+		<td>A permissive license that is simple and easy to understand. It allows for reuse within proprietary software.</td>
+		<td>Commercial use, modification, distribution, private use</td>
+		<td>License and copyright notice required</td>
+		<td>Liability, warranty</td>
+	</tr>
+		<tr>
+		<td>GNU General Public License (GPL) 2.0</td>
+		<td>A copyleft license that requires anyone who distributes your code or a derivative work to make the source available under the same terms.</td>
+		<td>Commercial use, modification, distribution, private use</td>
+		<td>Disclose source, same license, state changes</td>
+		<td>Liability, warranty</td>
+	</tr>
+		<tr>
+		<td>Apache License 2.0</td>
+		<td>A permissive license similar to the MIT License, but also provides an express grant of patent rights from contributors to users.</td>
+		<td>Commercial use, modification, distribution, patent use, private use</td>
+		<td>License and copyright notice, state changes, notice file</td>
+		<td>Trademark use, liability, warranty</td>
+	</tr>
+		<tr>
+		<td>GNU General Public License (GPL) 3.0</td>
+		<td>Similar to GPL 2.0 but includes additional requirements and protections for users, such as protection against Tivoization and patent claims.</td>
+		<td>Commercial use, modification, distribution, private use</td>
+		<td>Disclose source, same license, state changes, license notice</td>
+		<td>Liability, warranty</td>
+	</tr>
+		<tr>
+		<td>BSD License 2.0 (3-clause, New or Revised)</td>
+		<td>A permissive license with a focus on simplicity and clarity, requiring only that copyright notices be maintained.</td>
+		<td>Commercial use, modification, distribution, private use</td>
+		<td>License and copyright notice required</td>
+		<td>Liability, warranty</td>
+	</tr>
+</table>
+
 4) Component outdating or abandonment:
    
    Open-source projects can be discontinued or not updated regularly, resulting in outdated components. Keeping track of the versions of your open-source components can mitigate this risk.
