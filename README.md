@@ -21,7 +21,7 @@
 <h4 align="left"><font face="Arial"> Open-source components are software modules, libraries, frameworks, or tools with source code made available for anyone to use, modify, and distribute. Developed and maintained by a community of developers, these components are typically released under open-source licenses that outline the terms and conditions for their usage and distribution.</font></h4>
 
 <h3 align="left"><font face="Arial">What Are the Advantages of Using Open-Source Components?</font></h3>
-<h4 align="left"><font face="Arial"> 
+	
 1. Cost-Effective
 No Licensing Fees: Open-source components are generally free to use, which reduces the overall cost of software development.
 
@@ -55,7 +55,7 @@ Shared Knowledge: Access to a wealth of shared knowledge and expertise within th
 
 9. Compliance and Standards
 Adherence to Standards: Many open-source projects adhere to industry standards and best practices.
-Auditability: The open nature of the code makes it easier to audit for compliance with legal and regulatory requirements.</font></h4>
+Auditability: The open nature of the code makes it easier to audit for compliance with legal and regulatory requirements.
 
 <h3 align="left"><font face="Arial"> What are risks associated with open-source components?</font></h3>
 <h4 align="left"><font face="Arial"> Despite the benefits, there are risks associated with using open-source components:</font></h4>
