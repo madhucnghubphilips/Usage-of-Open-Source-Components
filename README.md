@@ -118,42 +118,42 @@ If OSS-Components are not properly managed and updated, open-source components c
 
 <table>
 	<tr>
-		<td>License Name</td>
+		<td>License Name</td> 
 		<td>Description</td>
 		<td>Permissions</td>
 		<td>Conditions</td>
 		<td>Limitations</td>
 	</tr>
 		<tr>
-		<td>MIT License</td>
+		<td><a href="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/BSD%20License%202.0.txt">MIT License</a></td>
 		<td>A permissive license that is simple and easy to understand. It allows for reuse within proprietary software.</td>
 		<td>Commercial use, modification, distribution, private use</td>
 		<td>License and copyright notice required</td>
 		<td>Liability, warranty</td>
 	</tr>
 		<tr>
-		<td>GNU General Public License (GPL) 2.0</td>
+		<td><a href="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/GNU%20GENERAL%20PUBLIC%20LICENSE%20Version%202.txt">GNU General Public License (GPL) 2.0</a></td>
 		<td>A copyleft license that requires anyone who distributes your code or a derivative work to make the source available under the same terms.</td>
 		<td>Commercial use, modification, distribution, private use</td>
 		<td>Disclose source, same license, state changes</td>
 		<td>Liability, warranty</td>
 	</tr>
 		<tr>
-		<td>Apache License 2.0</td>
+		<td><a href="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/Apache%20License%20version%202.0.txt">Apache License 2.0</a></td>
 		<td>A permissive license similar to the MIT License, but also provides an express grant of patent rights from contributors to users.</td>
 		<td>Commercial use, modification, distribution, patent use, private use</td>
 		<td>License and copyright notice, state changes, notice file</td>
 		<td>Trademark use, liability, warranty</td>
 	</tr>
 		<tr>
-		<td>GNU General Public License (GPL) 3.0</td>
+		<td><a href="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/GNU%20GENERAL%20PUBLIC%20LICENSE%20version%203.0.txt">GNU General Public License (GPL) 3.0</a></td>
 		<td>Similar to GPL 2.0 but includes additional requirements and protections for users, such as protection against Tivoization and patent claims.</td>
 		<td>Commercial use, modification, distribution, private use</td>
 		<td>Disclose source, same license, state changes, license notice</td>
 		<td>Liability, warranty</td>
 	</tr>
 		<tr>
-		<td>BSD License 2.0 (3-clause, New or Revised)</td>
+		<td><a href="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/OSS%20distribution%20license/BSD%20License%202.0.txt">BSD License 2.0</a></td>
 		<td>A permissive license with a focus on simplicity and clarity, requiring only that copyright notices be maintained.</td>
 		<td>Commercial use, modification, distribution, private use</td>
 		<td>License and copyright notice required</td>
