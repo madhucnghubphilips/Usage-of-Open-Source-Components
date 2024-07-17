@@ -62,7 +62,6 @@ Despite the benefits, there are risks associated with using open-source componen
 
 <h4 align="left"><font face="Arial"> 1) Security vulnerabilities:</font></h4>
 
-<h4 align="left"><font face="Arial"> 
 If OSS-Components are not properly managed and updated, open-source components can introduce vulnerabilities in your software. It's important to consistently monitor these components for potential security threats. The most common vulnerabilities are:
   
 a) Unpatched vulnerabilities
@@ -79,7 +78,7 @@ f) Misconfiguration
 
 g) Lack of security audits
   
-<h4 align="left"><font face="Arial"> 2) License compliance:
+<h4 align="left"><font face="Arial"> 2) License compliance:</font></h4>
    
    Each open-source component comes with a license that stipulates how it can be used. Failure to adhere to these licenses can result in legal complications.
     
@@ -198,7 +197,7 @@ Anomaly Detection: Use monitoring tools to detect unusual activity that might in
 Internal Documentation: Document the open-source components you use, their purpose, and any security considerations.
 Developer Training: Train your development team on secure coding practices and the risks associated with using open-source software.</font></h4>
 
-<h3 align="left"><font face="Arial"><span style="color:green">Free Tools for Vulnerability Detection in Open-Source Components</span></font></h3>	
+<h3 align="left"><font face="Arial"><span style="color:green">Free Tools to Uncover Vulnerabilities in Open-Source Components</span></font></h3>	
 
 <table>
 	<tr>
