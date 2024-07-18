@@ -20,6 +20,37 @@
 
 Open-source components are software modules, libraries, frameworks, or tools with source code made available for anyone to use, modify, and distribute. Developed and maintained by a community of developers, these components are typically released under open-source licenses that outline the terms and conditions for their usage and distribution.
 
+
+
+
+<h3 align="left"><font face="Arial"><span style="color:green">Adoption and Analysis Report of Open-Source Components</span></font></h3>
+
+**According to the 2023 Open Source Security and Risk Analysis (OSSRA) report by Synopsys;**
+
+96% of all applications contain open-source components. This high adoption rate underscores the integral role of open-source software in modern development practices.
+On average, **open-source components made up 76% of the codebases.**
+84% of the codebases had at least one known open-source vulnerability.
+**66% of the codebases had license conflicts, which can pose legal risks.**
+
+ 
+**According to the 2023 Red Hat State of Enterprise Open Source Report 2022;**
+
+95% of IT leaders said that open-source is strategically important to their enterprise infrastructure software strategy.
+77% of respondents expect to increase their use of enterprise open-source software for emerging technologies.
+	
+**According to The State of Open Source Report by Tidelift 2022;**
+
+92% of surveyed organizations use open-source software.
+66% of organizations have policies to pay for open-source maintenance and security.
+Security, licensing compliance, and support are the primary concerns regarding open-source usage.
+	
+**According to the Sonatype State of the Software Supply Chain Report 2023;**
+
+Over 2.2 trillion open-source component downloads in 2022, indicating a 33% increase from the previous year.
+**A 650% increase in supply chain attacks targeting upstream open-source components.**
+68% of organizations actively track and manage the quality of their open-source components.
+
+
 <h3 align="left"><font face="Arial">What Are the Advantages of Using Open-Source Components?</font></h3>
 	
 1. Cost-Effective
