@@ -14,10 +14,18 @@
 <!-- GIF -->
 <img align="center" height="300" width="500" src="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/Resource/coder3.gif" />
 
-## Index
+## Summary
 
-1) [What are Open-Source Components?](#1-whatareOpen-SourceComponents?)
-2) [Adoption and Analysis Report of Open-Source Components](#2-adoptionandAnalysisReportofOpen-SourceComponents)
+1) [Open-Source Components](#what-are-open-source-components)
+2) [Adoption and Analysis Report of Open-Source Components](#adoption-and-analysis-report-of-open-source-components)
+3) [What Are the Advantages of Using Open-Source Components](#what-are-the-advantages-of-using-open-source-components)
+4) [What are risks associated with open-source components](#-what-are-risks-associated-with-open-source-components)
+5) [Criteria to Evaluating Open-Source Components](#criteria-to-evaluating-open-Source-components)
+6) [Security best practices while importing open source components](#security-best-practices-while-importing-open-source-components)
+7) [Best Practices - Securing Open Source Components After Import](#best-practices-securing-open-source-components-after-import)
+8) [Free Tools to Uncover Vulnerabilities in Open-Source Components](#free-tools-to-uncover-vulnerabilities-in-open-source-components)
+9) [Professional Tools to Uncover Vulnerabilities in Open-Source Components](#professional-tools-to-uncover-vulnerabilities-in-open-source-components)
+
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Open-Source Components </font></h1>
 
