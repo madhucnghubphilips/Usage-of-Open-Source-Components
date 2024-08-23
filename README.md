@@ -14,7 +14,7 @@
 <!-- GIF -->
 <img align="center" height="300" width="500" src="https://github.com/madhucnghubphilips/Open-Source-Components-Usage/blob/main/Resource/coder3.gif" />
 
-## Summary
+## Index
 
 1) [What are Open-Source Components?](#1-whatareOpen-SourceComponents?)
 2) [Adoption and Analysis Report of Open-Source Components](#2-adoptionandAnalysisReportofOpen-SourceComponents)
