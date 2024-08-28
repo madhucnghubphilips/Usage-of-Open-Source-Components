@@ -17,7 +17,7 @@
 ## Contents
 
 1) [Open-Source Components](#what-are-open-source-components)
-2) [Adoption and Analysis Report of Open-Source Components](#adoption-and-analysis-report-of-open-source-components)
+2) [Adoption and Analysis Report of Open-Source Components](#2adoption-and-analysis-report-of-open-source-components)
 3) [What Are the Advantages of Using Open-Source Components](#what-are-the-advantages-of-using-open-source-components)
 4) [What are risks associated with open-source components](#-what-are-risks-associated-with-open-source-components)
 5) [Criteria to Evaluating Open-Source Components](#criteria-to-evaluating-open-Source-components)
