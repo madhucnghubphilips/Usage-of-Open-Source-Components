@@ -46,8 +46,8 @@ On average, **_open-source components made up 76% of the codebases._**
 
  
 **According to the 2023 Red Hat State of Enterprise Open Source Report 2022;**<br>
-95% of IT leaders said that open-source is strategically important to their enterprise infrastructure software strategy.
-77% of respondents expect to increase their use of enterprise open-source software for emerging technologies.
+95% of IT leaders said that open-source is strategically important to their enterprise infrastructure software strategy
+77% of respondents expect to increase their use of enterprise open-source software for emerging technologies
 	
 **According to The State of Open Source Report by Tidelift 2022;**<br>
 92% of surveyed organizations use open-source software.
